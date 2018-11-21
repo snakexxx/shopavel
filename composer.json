@@ -1,0 +1,13 @@
+{
+    "name": "buicongdang/shopavel",
+    "description": "laravel package shopify app",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Bui Cong Dang",
+            "email": "bdangvn@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
